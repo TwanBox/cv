@@ -1,2 +1,2 @@
 # cv
-Simple Little HTML Site
+Simple Little CV Site
